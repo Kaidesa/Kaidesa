@@ -14,11 +14,11 @@ I am a vTuber, software engineer, and maker that is very passionate about making
 I plan on expanding this in the future, but for now, have a bunch of my social media links instead.
 
 ### Social Media Links:
-- [Kaidesa's Twitch Channel](https://twitch.tv/Kaidesa)
-- [Kaidesa's YouTube Channel](https://youtube.com/@kaidesa)
-- [Kaidesa's TikTok Channel](https://tiktok.com/@Kaidesa)
-- [Kaidesa's Twitter](https://x.com/Kaidesa)
-- [Kaidesa's Website](https://kaidesa.tv)
+- [Kaidesa's Twitch Channel](https://twitch.tv/Kaidesa){:target="_blank"}
+- [Kaidesa's YouTube Channel](https://youtube.com/@kaidesa){:target="_blank"}
+- [Kaidesa's TikTok Channel](https://tiktok.com/@Kaidesa){:target="_blank"}
+- [Kaidesa's Twitter](https://x.com/Kaidesa){:target="_blank"}
+- [Kaidesa's Website](https://kaidesa.tv){:target="_blank"}
 
 <!--
 **Kaidesa/Kaidesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
