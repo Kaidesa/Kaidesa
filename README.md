@@ -5,7 +5,8 @@
 
 ---
 
-*Hiyas! My name is Kaidesa.*
+**Hiyas! My name is Kaidesa.**
+
 Thank you very much for coming to my GitHub page.
 
 I am a vTuber, software engineer, and maker that is very passionate about making content focusing around content creation as well as general tech, including but not limited to videos geared towards other content creators and Homelab nerds.
